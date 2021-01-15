@@ -1,0 +1,12 @@
+/Users/antonio/Desktop/CS133/Tables/Tables/bin/Debug/netcoreapp3.1/Tables.deps.json
+/Users/antonio/Desktop/CS133/Tables/Tables/bin/Debug/netcoreapp3.1/Tables.runtimeconfig.json
+/Users/antonio/Desktop/CS133/Tables/Tables/bin/Debug/netcoreapp3.1/Tables.runtimeconfig.dev.json
+/Users/antonio/Desktop/CS133/Tables/Tables/bin/Debug/netcoreapp3.1/Tables.dll
+/Users/antonio/Desktop/CS133/Tables/Tables/bin/Debug/netcoreapp3.1/Tables.pdb
+/Users/antonio/Desktop/CS133/Tables/Tables/obj/Debug/netcoreapp3.1/Tables.csprojAssemblyReference.cache
+/Users/antonio/Desktop/CS133/Tables/Tables/obj/Debug/netcoreapp3.1/Tables.AssemblyInfoInputs.cache
+/Users/antonio/Desktop/CS133/Tables/Tables/obj/Debug/netcoreapp3.1/Tables.AssemblyInfo.cs
+/Users/antonio/Desktop/CS133/Tables/Tables/obj/Debug/netcoreapp3.1/Tables.csproj.CoreCompileInputs.cache
+/Users/antonio/Desktop/CS133/Tables/Tables/obj/Debug/netcoreapp3.1/Tables.dll
+/Users/antonio/Desktop/CS133/Tables/Tables/obj/Debug/netcoreapp3.1/Tables.pdb
+/Users/antonio/Desktop/CS133/Tables/Tables/obj/Debug/netcoreapp3.1/Tables.genruntimeconfig.cache
